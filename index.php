@@ -1,1 +1,1 @@
-<?php echo "<h1>¡Integración exitosa!</h1>";  ?>
+<?php echo "<h1>¡Integración exitosa de actions!</h1>";  ?>
